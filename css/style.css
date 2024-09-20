@@ -1,0 +1,44 @@
+header{
+  background-color: black;
+}
+
+header h1{
+  color: white;
+  font-size: 30px;
+  margin: 20px;
+}
+
+nav{
+  background-color: gray;
+  height: auto;
+}
+
+nav ul a li{
+  color: white;
+  display: inline;
+  margin-left: 15px;
+  font-size: 20px;
+}
+
+aside{
+  background-color: gray;
+  height: 600px;
+}
+
+aside h2{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+aside h6{
+  color: white;
+  line-height: 30px;
+  font-size: 20px;
+  border-bottom: 1px solid white;
+}
+
+footer{
+  background-color: gray;
+}
